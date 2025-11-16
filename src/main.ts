@@ -2,7 +2,7 @@ import "./style.css";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <p>
-    My name is Soheil and I'm based in Hamburg.<br/>
+    My name is Soheil and I live in Hamburg.<br/>
 
     I enjoy reading books. Some of my favourites are Harari's Sapiens and
     Homo Deus and Hawking's Brief Answers to Big Questions.<br/>
